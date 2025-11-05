@@ -12,3 +12,9 @@
 ``` javascript
 var myName = "Egzzi";
 ```
+
+## Adding List
+######  Making a list
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
